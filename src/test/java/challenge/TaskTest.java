@@ -1,6 +1,6 @@
 package challenge;
 
-import challenge.modifier.TenPercentOffArticleSalesDeal;
+import challenge.salesdeal.TenPercentOffArticleSalesDeal;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;

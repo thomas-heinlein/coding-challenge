@@ -1,6 +1,6 @@
 package challenge;
 
-import challenge.modifier.SalesDeal;
+import challenge.salesdeal.SalesDeal;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

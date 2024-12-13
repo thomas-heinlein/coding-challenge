@@ -1,4 +1,4 @@
-package challenge.modifier;
+package challenge.salesdeal;
 
 import challenge.Inventory;
 import challenge.Product;

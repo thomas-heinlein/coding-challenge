@@ -1,4 +1,4 @@
-package challenge.modifier;
+package challenge.salesdeal;
 
 import challenge.Product;
 import org.junit.jupiter.api.Test;
